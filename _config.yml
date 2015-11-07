@@ -1,3 +1,7 @@
+name: Mosaic Republic
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1344086
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Mosaic Republic :: Qualified Mosaic Artisans ::'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7311828
-  lightness: 0.4928315
-  brandStrength: 0.8136201
   brandColors:
     - '#FFFFFF'
     - '#F1221C'
     - '#000000'
     - '#FDCA8B'
     - '#01A5E1'
+  brandStrength: 0.8136201
+  lightness: 0.4928315
+  saturation: 0.7311828
   rhythmicContrast: 0.4426523
-typography_spectrum: 0.1344086
-layout_spectrum: 1
-name: Mosaic Republic
+purpose: []
