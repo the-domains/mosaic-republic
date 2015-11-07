@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7311828
+  brandStrength: 0.6612903
+  lightness: 0.4928315
+  brandColors:
+    - '#FFFFFF'
+    - '#F1221C'
+    - '#000000'
+    - '#FDCA8B'
+    - '#01A5E1'
+  rhythmicContrast: 0.4426523
+typography_spectrum: 0.1344086
+name: Mosaic Republic
