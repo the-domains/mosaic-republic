@@ -32,9 +32,9 @@ color:
     - '#fefefe'
     - '#eb3338'
     - '#373535'
-    - '#39ace1'
+    - '#6bb55d'
     - '#f27d36'
-  brandStrength: 0.8136201
+  brandStrength: 0.5625
   lightness: 0.4928315
   saturation: 0.7311828
   rhythmicContrast: 0.4426523
