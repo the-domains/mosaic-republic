@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mosaic Republic :: Qualified Mosaic Artisans ::]]></title>
+        <description><![CDATA[Mosaic Republic :: Qualified Mosaic Artisans ::]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 Nov 2015 06:00:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Martellina]]></title>
+            <description><![CDATA[<article><h1>Martellina</h1><p>Hammer and hardie used by Mosaic Republic qualified artisans</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63b01d36-edb8-4526-a44c-115ef1e21dc4.jpg"></article>]]></description>
+            <link>undefinedmartellina/index.html</link>
+            <guid isPermaLink="false">ed332ba4-6acc-4855-bc8a-4258f65b2873</guid>
+            <pubDate>Sun, 08 Nov 2015 06:00:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
