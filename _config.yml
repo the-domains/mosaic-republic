@@ -14,14 +14,14 @@ collections:
       number: 10
 color:
   saturation: 0.3835126
-  brandStrength: 0.3100359
+  brandStrength: 1
   lightness: 0.7419355
   brandColors:
-    - '#FFFFFF'
-    - '#F1221C'
-    - '#000000'
-    - '#FDCA8B'
-    - '#01A5E1'
+    - '#040316'
+    - '#FBFBFF'
+    - '#435C4B'
+    - '#DFAC02'
+    - '#B53A4B'
   rhythmicContrast: 0.4336918
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mosaic Republic
+favicon: null
 opengraph:
   image: null
   type: null
