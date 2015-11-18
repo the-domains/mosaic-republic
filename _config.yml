@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.3835126
-  brandStrength: 1
   lightness: 1
+  brandStrength: 0.5017921
   brandColors:
-    - '#040316'
-    - '#FBFBFF'
-    - '#435C4B'
-    - '#DFAC02'
-    - '#B53A4B'
+    - '#FFFFFF'
+    - '#F1221C'
+    - '#000000'
+    - '#FDCA8B'
+    - '#01A5E1'
   rhythmicContrast: 0.4336918
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Mosaic Republic
+favicon: null
 opengraph:
   image: null
   type: null
