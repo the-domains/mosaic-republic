@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.3835126
   lightness: 1
-  brandStrength: 0.5017921
+  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#F1221C'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mosaic Republic
 favicon: null
+name: Mosaic Republic
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1236559
-layout_spectrum: 0.1899642
+layout_spectrum: 1
