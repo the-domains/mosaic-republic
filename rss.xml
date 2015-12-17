@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mosaic Republic    Qualified Mosaic Artisans ]]></title>
+        <description><![CDATA[Mosaic Republic    Qualified Mosaic Artisans ]]></description>
+        <link>https://thegrid.ai/mosaic-republic/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 05:17:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mosaic-republic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Falena]]></title>
+            <description><![CDATA[<article><h1>Falena</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/831e4043-9068-43a1-9d3a-969062065b50.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mosaic-republic/falena/index.html</link>
+            <guid isPermaLink="false">18a521e8-a576-4327-bda8-2f4cf8109db9</guid>
+            <pubDate>Sun, 08 Nov 2015 06:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Martellina]]></title>
+            <description><![CDATA[<article><h1>Martellina</h1><p>Hammer and hardie used by Mosaic Republic qualified artisans</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2feee0995c3c25203b04c0a00cde4073e2e8430f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mosaic-republic/martellina/index.html</link>
+            <guid isPermaLink="false">ed332ba4-6acc-4855-bc8a-4258f65b2873</guid>
+            <pubDate>Sun, 08 Nov 2015 06:00:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
